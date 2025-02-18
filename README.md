@@ -5,7 +5,7 @@
 ## Overview
 This project aims to analyze and predict customer preferences for communication channels using data from various platforms. The primary goal is to understand and predict how customers interact with different communication channels for diffrent message types (promotional & trigger), including Email, SMS, and Push Notifications.
 
-#### For detailed documentation, please visit my documentation: [https://mynmg-my.sharepoint.com/:w:/r/personal/subham_srivastava_neimanmarcus_com/Documents/Customer_Communication_Preference_Modeling_Report_v1_Sept2024.docx?d=w4edd1e5219a54c6e9ac2b04c708ed65d&e=4%3a4f8b0b6fbbd746d48535dc97d34295d8&sharingv2=true&fromShare=true&at=9]
+#### For detailed documentation, please visit my documentation
 
 ## Communication Platforms
 The project focuses on three types of communication platforms:
@@ -75,7 +75,7 @@ The project follows a structured workflow to ensure comprehensive analysis and m
 - Seaborn
 
 ## Contribution
-Contributions are welcome! Please feel free to submit a pull request or open an issue if you have suggestions or improvements. (subham_srivastava@neimanmarcus.com)
+Contributions are welcome! Please feel free to submit a pull request or open an issue if you have suggestions or improvements. 
 
 
 ## Acknowledgments
